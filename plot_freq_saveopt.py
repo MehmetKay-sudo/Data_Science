@@ -1,3 +1,6 @@
+# with this code you can tokenize words of screenplays (txt files) 
+# this is not tested yet
+
 import tkinter as tk
 from tkinter import filedialog
 import nltk
