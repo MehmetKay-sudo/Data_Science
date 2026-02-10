@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog
 import nltk
+nltk.download('punkt_tab')
 import pandas as pd
 import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
